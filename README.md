@@ -5,10 +5,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Alejandro Portocarrero Sepúlveda   </title>
-
- 
-    <link rel="stylesheet" type="text/css" href="https://myfiles.space/user_files/temporary/690a8ff36fa353.76262712/1762299890_hojavidasoftware/styles.css" media="all">
 </head>
 
 <body>
