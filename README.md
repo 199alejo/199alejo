@@ -5,8 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>
-    </title>
+    <title>Alejandro Portocarrero Sepúlveda   </title>
+
+ 
     <link rel="stylesheet" type="text/css" href="https://myfiles.space/user_files/temporary/690a8ff36fa353.76262712/1762299890_hojavidasoftware/styles.css" media="all">
 </head>
 
@@ -122,7 +123,7 @@
             <div class="wcdiv" style="top:400.66pt;"><span class="wcspan wctext006" style="font-size:10pt; color:#1f2329; left:0pt; top:0.33pt; line-height:11.17pt;">Primo&nbsp;</span></div>
         </div>
     </div>
-    <p style="bottom: 10px; right: 10px; position: absolute;"><a href="https://wordtohtml.net/?utm_source=wth_free_doc_conversion_link&utm_medium=external" target="_blank" style="font-size:11px; color: #d0d0d0;">Convertido a HTML con WordToHTML.net</a><span style="font-size:11px; color: #d0d0d0;">&nbsp;|&nbsp;</span><a href="https://documentconverter.pro/?utm_source=wth_free_doc_conversion_link&utm_medium=external" target="_blank" style="font-size:11px; color: #d0d0d0;">Convertidor de Documentos para Windows</a></p>
+   
 </body>
 
 </html>
